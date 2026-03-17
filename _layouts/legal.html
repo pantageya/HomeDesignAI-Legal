@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | Home Design AI</title>
+  <meta name="description" content="{{ page.description | escape }}">
+  <link rel="stylesheet" href="{{ '/assets/legal.css' | relative_url }}">
+</head>
+<body>
+  <main class="page-shell">
+    <section class="hero">
+      <p class="eyebrow">Home Design AI</p>
+      <h1>{{ page.title }}</h1>
+      <div class="hero-meta">
+        <span class="pill">Effective Date: {{ page.effective_date }}</span>
+        <span class="pill">Applies to iOS App</span>
+      </div>
+    </section>
+
+    <section class="content-card">
+      {% if page.intro %}
+      <p class="legal-intro">{{ page.intro }}</p>
+      {% endif %}
+
+      <article class="legal-content">
+        {{ content }}
+      </article>
+
+      {% if page.contact_block %}
+      <section class="contact-block">
+        <p>{{ page.contact_block }}</p>
+      </section>
+      {% endif %}
+    </section>
+
+    <p class="footer-note">Home Design AI legal information.</p>
+  </main>
+</body>
+</html>
