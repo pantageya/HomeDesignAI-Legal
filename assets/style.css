@@ -1,0 +1,36 @@
+.legal-page {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    .legal-page {
+        padding: 10px;
+    }
+}
+
+.header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.link {
+    color: #2a8fbd;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
