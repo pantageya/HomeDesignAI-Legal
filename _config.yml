@@ -1,3 +1,6 @@
 title: Home Design AI Legal
+description: Hosted legal pages for the Home Design AI iOS app.
+url: https://pantageya.github.io
+baseurl: /HomeDesignAI-Legal
 markdown: kramdown
 permalink: pretty
