@@ -1,19 +1,18 @@
 ---
 layout: legal
 title: Privacy Policy
-description: Privacy policy for the Home Design AI mobile application.
+description: Privacy policy for the AI Home Design Maker mobile application.
 effective_date: March 17, 2026
 permalink: /privacy/
-intro: This Privacy Policy explains how Home Design AI collects, uses, stores, and protects information when you use the app and related services.
+intro: This Privacy Policy explains how AI Home Design Maker collects, uses, stores, and protects information when you use the app and related services.
 ---
 
 ## 1. Scope
 
-This Privacy Policy applies to information collected through the Home Design AI iOS application, including when you:
+This Privacy Policy applies to information collected through the AI Home Design Maker iOS application, including when you:
 
 - upload or capture photos for AI-powered design generation;
 - submit prompts, style selections, and other content;
-- use chat or assistant features;
 - save, share, or export generated images;
 - purchase or restore subscriptions through the App Store; and
 - interact with the App while analytics, diagnostics, or security tools are active.
@@ -26,7 +25,6 @@ We may collect the following categories of information:
 
 - Photos and images you upload, capture, edit, or submit for generation, style transfer, repainting, or redesign.
 - Text prompts, room selections, style selections, color selections, and other instructions you provide in the App.
-- Chat messages and other text you submit through the in-app assistant or chat features.
 - Support requests, feedback, or other communications you send to us.
 
 ### 2.2 Information created through your use of the App
@@ -50,7 +48,7 @@ We may collect the following categories of information:
 
 We collect information:
 
-- directly from you when you upload content, enter prompts, use chat, or contact us;
+- directly from you when you upload content, enter prompts, or contact us;
 - automatically through the App and integrated SDKs, including analytics, crash reporting, storage, and security services; and
 - from third parties, such as Apple, when necessary to validate purchases, provide subscriptions, or comply with platform rules.
 
@@ -60,7 +58,6 @@ We may use information for the following purposes:
 
 - to operate the App and provide AI-powered generation, redesign, repainting, and style transfer features;
 - to upload, process, store, retrieve, and return images needed to perform generation requests;
-- to provide chat or assistant functionality and return responses to your prompts;
 - to save your generation history and make your outputs available inside the App;
 - to process and restore subscriptions, maintain premium access, and respond to billing-related support issues;
 - to monitor app performance, troubleshoot errors, detect crashes, maintain security, prevent abuse, and debug technical issues;
@@ -72,13 +69,13 @@ We may use information for the following purposes:
 
 When you use generation features, the photos and inputs you provide may be transmitted to third-party infrastructure providers and AI service providers that help us perform the requested generation task.
 
+For example, we may use Firebase for storage and app infrastructure functions, and Replicate to process AI-powered image generation requests.
+
 Depending on the feature you use, this may include:
 
-- uploading your source image or mask image to cloud storage so the generation pipeline can access it;
-- sending image URLs, prompts, style selections, room selections, and related generation parameters to AI model providers; and
+- uploading your source image or mask image to cloud storage, including Firebase-managed storage used to support user processing requests, so the generation pipeline can access it;
+- sending image URLs, prompts, style selections, room selections, and related generation parameters to AI model providers, including Replicate; and
 - downloading generated results back to the App and optionally saving them locally on your device.
-
-When you use chat features, your chat messages and related conversation context may be sent to a third-party AI/chat provider in order to generate a response.
 
 Please do not upload or submit sensitive personal information, confidential information, or images you are not comfortable transmitting to cloud services.
 
@@ -86,8 +83,8 @@ Please do not upload or submit sensitive personal information, confidential info
 
 We may share information with:
 
-- cloud storage, hosting, analytics, diagnostics, and infrastructure providers;
-- AI and model providers that process prompts, messages, images, and generation requests on our behalf;
+- cloud storage, hosting, analytics, diagnostics, and infrastructure providers, including Firebase;
+- AI and model providers that process prompts, images, and generation requests on our behalf, including Replicate;
 - Apple and App Store-related service providers for subscription, billing, and purchase validation workflows;
 - professional advisors, auditors, insurers, and legal compliance providers where necessary;
 - authorities, regulators, courts, or law enforcement if required by law or to protect rights, safety, and security; and
@@ -101,7 +98,7 @@ The App may use third-party tools and services, including services associated wi
 
 - Apple and the App Store;
 - Firebase / Google services for storage, analytics, diagnostics, and related infrastructure;
-- AI model providers and chat providers used to process your prompts, images, and messages; and
+- AI model providers used to process your prompts, images, and generation requests, including Replicate; and
 - other technical vendors that help us deliver, secure, and improve the Service.
 
 These third parties may process certain information under their own privacy terms and contractual arrangements with us. We encourage you to review their applicable privacy information where relevant.
@@ -119,6 +116,8 @@ You can control these permissions at any time in your iOS device settings. If yo
 ## 9. Local Storage on Your Device
 
 The App may store generated images, original images, prompts, style selections, and related history locally on your device so you can view previous results inside the App.
+
+Certain files related to generation requests may also be temporarily stored in cloud infrastructure, including Firebase-managed storage, for the limited purpose of processing user-requested features and returning results to you.
 
 If you save images to your Apple Photos library, those files are then also stored within your Photos environment under Apple's controls.
 
@@ -138,7 +137,7 @@ Retention periods may vary depending on the category of data, how the feature wo
 
 ## 11. International Data Transfers
 
-Your information may be processed and stored in countries other than the one where you live. These countries may have different data protection laws than your jurisdiction.
+Your information may be processed and stored in countries other than the one where you live, including through third-party providers that support storage, infrastructure, analytics, crash reporting, and AI processing. These countries may have different data protection laws than your jurisdiction.
 
 Where required, we will take reasonable steps intended to ensure that such transfers are subject to appropriate safeguards.
 
@@ -184,7 +183,7 @@ However, no method of transmission over the internet and no method of electronic
 
 ## 16. Do Not Track and Targeted Advertising
 
-Unless and until our actual product implementation changes, we do not describe the App as using uploaded photos, prompts, or chat content for cross-context behavioral advertising.
+Unless and until our actual product implementation changes, we do not describe the App as using uploaded photos or prompts for cross-context behavioral advertising.
 
 If our data practices change in a way that requires updated disclosures, we will revise this Privacy Policy and, where required, seek additional consent.
 
@@ -198,7 +197,7 @@ Your continued use of the App after the updated Privacy Policy becomes effective
 
 If you have questions or requests regarding this Privacy Policy, please contact:
 
-[Your Full Legal Name]  
-[Mailing Address]  
-[Support Email]  
-[Website or Privacy Policy URL]
+Pavel Gedko  
+Centralnaja 6-7 Pinsk, 225715, Belarus  
+[pavelgedko@icloud.com](mailto:pavelgedko@icloud.com)  
+[Support Page](https://pantageya.github.io/HomeDesignAI-Legal/support/)

@@ -1,21 +1,21 @@
 ---
 layout: legal
 title: Terms of Use
-description: Legal terms governing use of the Home Design AI mobile application.
+description: Legal terms governing use of the AI Home Design Maker mobile application.
 effective_date: March 17, 2026
 permalink: /terms/
-intro: These Terms of Use govern your access to and use of the Home Design AI mobile application and related services.
+intro: These Terms of Use govern your access to and use of the AI Home Design Maker mobile application and related services.
 ---
 
 ## 1. Eligibility
 
-You must be at least 18 years old, or the age of legal majority in your jurisdiction, to use the App. If you are under that age, you may use the App only with the involvement and consent of a parent or legal guardian.
+You must be at least 13 years old, or the minimum age required for digital consent in your jurisdiction, to use the App. If you are below that age, you may use the App only with the involvement and consent of a parent or legal guardian where permitted by law.
 
 You may use the App only in compliance with applicable law and these Terms.
 
 ## 2. The Service
 
-Home Design AI is an AI-powered design visualization tool that may allow you to:
+AI Home Design Maker is an AI-powered design visualization tool that may allow you to:
 
 - upload or capture photos of interiors, exteriors, gardens, or other spaces;
 - apply AI-generated redesigns, style transformations, or recoloring effects;
@@ -48,7 +48,7 @@ We may change subscription plans, pricing, or premium feature availability from 
 
 If you previously purchased eligible premium access through the App Store, you may be able to restore purchases using the restore feature made available in the App.
 
-Subscription cancellations and refund requests for App Store purchases are handled by Apple, not by us, unless otherwise required by applicable law. You can manage subscriptions through your Apple Account and may request refunds through Apple's support and billing channels.
+Subscription cancellations and refund requests for App Store purchases are handled by Apple, not by us, unless otherwise required by applicable law. You can manage subscriptions through your Apple Account and may request refunds through Apple's support and billing channels. We can assist with restore, access, and app-related support issues, but we do not control Apple's billing or refund decisions.
 
 ## 5. User Content
 
@@ -67,7 +67,7 @@ You are solely responsible for your User Content and for the consequences of sub
 
 ## 6. AI Outputs and Generated Content
 
-The App uses third-party and/or proprietary artificial intelligence systems to generate visual outputs, redesign suggestions, recoloring results, and conversational assistance ("Outputs").
+The App uses third-party and/or proprietary artificial intelligence systems to generate visual outputs, redesign suggestions, and recoloring results ("Outputs").
 
 You understand and agree that:
 
@@ -161,9 +161,9 @@ Sections that by their nature should survive termination will survive, including
 
 ## 17. Governing Law and Disputes
 
-These Terms are governed by the laws of [State/Country], excluding its conflict of laws rules, unless mandatory consumer protection laws in your jurisdiction require otherwise.
+These Terms are governed by the laws applicable to the Developer's provision of the Service, excluding conflict of laws rules, unless mandatory consumer protection laws in your jurisdiction require otherwise.
 
-Any dispute arising out of or relating to these Terms or the Service will be submitted to the courts located in [City, State/Country], unless applicable law provides you with the right to bring claims in another forum.
+Any dispute arising out of or relating to these Terms or the Service will be resolved in the forum required or permitted by applicable law, unless mandatory consumer protection laws in your jurisdiction provide you with the right to bring claims in another forum.
 
 If you are a consumer residing in a jurisdiction that gives you mandatory rights, nothing in these Terms limits those rights.
 
@@ -177,10 +177,10 @@ Your continued use of the App after updated Terms become effective means you acc
 
 If you have questions about these Terms, please contact:
 
-[Your Full Legal Name]  
-[Mailing Address]  
-[Support Email]  
-[Website or Support Page URL]
+Pavel Gedko  
+Centralnaja 6-7 Pinsk, 225715, Belarus  
+[pavelgedko@icloud.com](mailto:pavelgedko@icloud.com)  
+[Support Page](https://pantageya.github.io/HomeDesignAI-Legal/support/)
 
 ## 20. Apple-Specific Terms
 
