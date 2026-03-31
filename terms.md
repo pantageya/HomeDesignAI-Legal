@@ -179,8 +179,7 @@ If you have questions about these Terms, please contact:
 
 Pavel Gedko  
 Centralnaja 6-7 Pinsk, 225715, Belarus  
-[pavelgedko@icloud.com](mailto:pavelgedko@icloud.com)  
-[Support Page](https://pantageya.github.io/HomeDesignAI-Legal/support/)
+[pavelgedko@icloud.com](mailto:pavelgedko@icloud.com)
 
 ## 20. Apple-Specific Terms
 

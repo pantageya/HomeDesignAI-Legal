@@ -25,7 +25,7 @@ We may collect the following categories of information:
 
 - Photos and images you upload, capture, edit, or submit for generation, style transfer, repainting, or redesign.
 - Text prompts, room selections, style selections, color selections, and other instructions you provide in the App.
-- Support requests, feedback, or other communications you send to us.
+- Requests, feedback, or other communications you send to us.
 
 ### 2.2 Information created through your use of the App
 
@@ -199,5 +199,4 @@ If you have questions or requests regarding this Privacy Policy, please contact:
 
 Pavel Gedko  
 Centralnaja 6-7 Pinsk, 225715, Belarus  
-[pavelgedko@icloud.com](mailto:pavelgedko@icloud.com)  
-[Support Page](https://pantageya.github.io/HomeDesignAI-Legal/support/)
+[pavelgedko@icloud.com](mailto:pavelgedko@icloud.com)

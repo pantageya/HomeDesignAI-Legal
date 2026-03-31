@@ -11,9 +11,8 @@ intro: Official legal documents for the Home Design AI iOS application.
 
 - [Terms of Use]({{ '/terms/' | relative_url }})
 - [Privacy Policy]({{ '/privacy/' | relative_url }})
-- [Support]({{ '/support/' | relative_url }})
 
 ## Notes
 
-- These pages are the canonical published legal and support documents used by the app.
+- These pages are the canonical published legal documents used by the app.
 - The iOS app should open the pretty GitHub Pages routes, not legacy standalone HTML files.
