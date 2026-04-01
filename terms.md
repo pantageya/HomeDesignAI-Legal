@@ -1,10 +1,10 @@
 ---
 layout: legal
 title: Terms of Use
-description: Legal terms governing use of the AI Home Design Maker mobile application.
-effective_date: March 17, 2026
+description: Legal terms governing use of mobile applications and related services published by Pavel Gedko.
+effective_date: April 1, 2026
 permalink: /terms/
-intro: These Terms of Use govern your access to and use of the AI Home Design Maker mobile application and related services.
+intro: These Terms of Use govern your access to and use of mobile applications and related services published by Pavel Gedko.
 ---
 
 ## 1. Eligibility
@@ -15,15 +15,15 @@ You may use the App only in compliance with applicable law and these Terms.
 
 ## 2. The Service
 
-AI Home Design Maker is an AI-powered design visualization tool that may allow you to:
+Depending on the specific App, the Service may allow you to:
 
-- upload or capture photos of interiors, exteriors, gardens, or other spaces;
-- apply AI-generated redesigns, style transformations, or recoloring effects;
-- browse inspirational design examples and style references;
-- save, export, share, or store generated results; and
+- upload, capture, create, edit, generate, transform, analyze, or organize images, text, or other content;
+- submit prompts, selections, preferences, or other inputs to app features;
+- browse examples, suggestions, or other in-app content;
+- save, export, share, or store results; and
 - access premium features through a paid subscription.
 
-The App is intended for inspiration, visualization, and creative exploration only. It is not an architectural, engineering, construction, interior design, safety, structural, permitting, or professional advisory service.
+The App is intended for general consumer, creative, productivity, informational, or utility purposes, depending on the specific App. It is not a substitute for professional advice or services in regulated, licensed, or safety-critical fields unless the App explicitly states otherwise.
 
 ## 3. Subscriptions, Billing, and Trials
 
@@ -67,14 +67,14 @@ You are solely responsible for your User Content and for the consequences of sub
 
 ## 6. AI Outputs and Generated Content
 
-The App uses third-party and/or proprietary artificial intelligence systems to generate visual outputs, redesign suggestions, and recoloring results ("Outputs").
+The App may use third-party and/or proprietary artificial intelligence systems to generate text, images, recommendations, classifications, summaries, or other outputs ("Outputs").
 
 You understand and agree that:
 
 - Outputs are generated automatically and may be inaccurate, unrealistic, incomplete, offensive, unavailable, or unsuitable for your intended purpose;
 - similar or identical outputs may be generated for other users;
-- Outputs may not reflect real-world dimensions, structural feasibility, code compliance, safety requirements, material availability, or project cost;
-- you must independently evaluate all Outputs before relying on them in any personal, commercial, construction, renovation, or purchasing decision; and
+- Outputs may omit context, contain errors, reflect biased or unexpected patterns, or fail to satisfy legal, safety, compliance, or quality requirements;
+- you must independently evaluate all Outputs before relying on them in any personal, professional, commercial, legal, financial, medical, purchasing, or other decision; and
 - the App does not guarantee any specific aesthetic, technical, or commercial result.
 
 To the extent permitted by law, and subject to any rights of third parties, you may use the Outputs generated for you for personal or internal business purposes. You remain responsible for ensuring that any use of Outputs complies with applicable law and does not infringe any third-party rights.
@@ -178,8 +178,7 @@ Your continued use of the App after updated Terms become effective means you acc
 If you have questions about these Terms, please contact:
 
 Pavel Gedko  
-Centralnaja 6-7 Pinsk, 225715, Belarus  
-[pavelgedko@icloud.com](mailto:pavelgedko@icloud.com)
+[gedkosupport@gmail.com](mailto:gedkosupport@gmail.com)
 
 ## 20. Apple-Specific Terms
 

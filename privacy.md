@@ -1,19 +1,19 @@
 ---
 layout: legal
 title: Privacy Policy
-description: Privacy policy for the AI Home Design Maker mobile application.
-effective_date: March 17, 2026
+description: Privacy policy for mobile applications and related services published by Pavel Gedko.
+effective_date: April 1, 2026
 permalink: /privacy/
-intro: This Privacy Policy explains how AI Home Design Maker collects, uses, stores, and protects information when you use the app and related services.
+intro: This Privacy Policy explains how mobile applications and related services published by Pavel Gedko collect, use, store, and protect information.
 ---
 
 ## 1. Scope
 
-This Privacy Policy applies to information collected through the AI Home Design Maker iOS application, including when you:
+This Privacy Policy applies to information collected through our mobile applications and related services, including when you:
 
-- upload or capture photos for AI-powered design generation;
-- submit prompts, style selections, and other content;
-- save, share, or export generated images;
+- upload or capture photos, screenshots, files, or other source content;
+- submit prompts, selections, text, or other inputs;
+- save, share, or export generated or processed results;
 - purchase or restore subscriptions through the App Store; and
 - interact with the App while analytics, diagnostics, or security tools are active.
 
@@ -23,15 +23,15 @@ We may collect the following categories of information:
 
 ### 2.1 Information you provide directly
 
-- Photos and images you upload, capture, edit, or submit for generation, style transfer, repainting, or redesign.
-- Text prompts, room selections, style selections, color selections, and other instructions you provide in the App.
+- Photos, images, screenshots, files, recordings, or other content you upload, capture, edit, or submit through the App.
+- Text prompts, selections, preferences, messages, and other instructions you provide in the App.
 - Requests, feedback, or other communications you send to us.
 
 ### 2.2 Information created through your use of the App
 
-- AI-generated images, redesign results, and related output metadata.
-- Records of generation requests, such as selected style, selected room type, and prompt text.
-- Locally stored files and history saved on your device, including generated image files and local workplace/history entries.
+- AI-generated or app-generated outputs and related metadata.
+- Records of feature requests and app interactions, such as selected options, prompt text, and processing history.
+- Locally stored files and history saved on your device in connection with App features.
 
 ### 2.3 Information collected automatically
 
@@ -56,9 +56,9 @@ We collect information:
 
 We may use information for the following purposes:
 
-- to operate the App and provide AI-powered generation, redesign, repainting, and style transfer features;
-- to upload, process, store, retrieve, and return images needed to perform generation requests;
-- to save your generation history and make your outputs available inside the App;
+- to operate the App and provide its features, including AI-powered or automated functionality where applicable;
+- to upload, process, store, retrieve, and return content needed to perform requested features;
+- to save your app history and make your outputs or results available inside the App;
 - to process and restore subscriptions, maintain premium access, and respond to billing-related support issues;
 - to monitor app performance, troubleshoot errors, detect crashes, maintain security, prevent abuse, and debug technical issues;
 - to improve the App's design, usability, stability, and feature set;
@@ -67,15 +67,15 @@ We may use information for the following purposes:
 
 ## 5. How AI Processing Works
 
-When you use generation features, the photos and inputs you provide may be transmitted to third-party infrastructure providers and AI service providers that help us perform the requested generation task.
+When you use AI-powered or automated features, the content and inputs you provide may be transmitted to third-party infrastructure providers and service providers that help us perform the requested task.
 
-For example, we may use Firebase for storage and app infrastructure functions, and Replicate to process AI-powered image generation requests.
+Depending on the specific App and feature, this may include cloud storage providers, analytics providers, diagnostics providers, and AI or model providers.
 
 Depending on the feature you use, this may include:
 
-- uploading your source image or mask image to cloud storage, including Firebase-managed storage used to support user processing requests, so the generation pipeline can access it;
-- sending image URLs, prompts, style selections, room selections, and related generation parameters to AI model providers, including Replicate; and
-- downloading generated results back to the App and optionally saving them locally on your device.
+- uploading source content to cloud storage so processing systems can access it;
+- sending prompts, media, configuration choices, or other task parameters to service providers that process the requested feature; and
+- downloading results back to the App and optionally saving them locally on your device.
 
 Please do not upload or submit sensitive personal information, confidential information, or images you are not comfortable transmitting to cloud services.
 
@@ -83,8 +83,8 @@ Please do not upload or submit sensitive personal information, confidential info
 
 We may share information with:
 
-- cloud storage, hosting, analytics, diagnostics, and infrastructure providers, including Firebase;
-- AI and model providers that process prompts, images, and generation requests on our behalf, including Replicate;
+- cloud storage, hosting, analytics, diagnostics, and infrastructure providers;
+- AI, automation, and model providers that process prompts, media, and feature requests on our behalf;
 - Apple and App Store-related service providers for subscription, billing, and purchase validation workflows;
 - professional advisors, auditors, insurers, and legal compliance providers where necessary;
 - authorities, regulators, courts, or law enforcement if required by law or to protect rights, safety, and security; and
@@ -97,27 +97,28 @@ We do not state that we "sell" personal information unless and until our actual 
 The App may use third-party tools and services, including services associated with:
 
 - Apple and the App Store;
-- Firebase / Google services for storage, analytics, diagnostics, and related infrastructure;
-- AI model providers used to process your prompts, images, and generation requests, including Replicate; and
+- cloud storage, analytics, diagnostics, and related infrastructure providers;
+- AI or model providers used to process prompts, media, and feature requests; and
 - other technical vendors that help us deliver, secure, and improve the Service.
 
 These third parties may process certain information under their own privacy terms and contractual arrangements with us. We encourage you to review their applicable privacy information where relevant.
 
 ## 8. App Permissions
 
-The App may request access to:
+Depending on the specific App and feature set, the App may request access to:
 
-- Camera, so you can take photos for design generation;
-- Photo Library, so you can upload source images; and
-- Photo Library Additions, so you can save generated images to your Photos.
+- Camera, so you can capture content inside the App;
+- Photo Library, Files, Microphone, or other device resources, so you can provide source content;
+- Photo Library Additions or local storage access, so you can save results created by the App; and
+- Notifications, if the App offers reminders, status updates, or similar functionality.
 
 You can control these permissions at any time in your iOS device settings. If you deny certain permissions, some App features may not function properly.
 
 ## 9. Local Storage on Your Device
 
-The App may store generated images, original images, prompts, style selections, and related history locally on your device so you can view previous results inside the App.
+The App may store source content, generated results, prompts, selections, preferences, and related history locally on your device so you can view previous activity inside the App.
 
-Certain files related to generation requests may also be temporarily stored in cloud infrastructure, including Firebase-managed storage, for the limited purpose of processing user-requested features and returning results to you.
+Certain files related to feature requests may also be temporarily stored in cloud infrastructure for the limited purpose of processing user-requested features and returning results to you.
 
 If you save images to your Apple Photos library, those files are then also stored within your Photos environment under Apple's controls.
 
@@ -183,7 +184,7 @@ However, no method of transmission over the internet and no method of electronic
 
 ## 16. Do Not Track and Targeted Advertising
 
-Unless and until our actual product implementation changes, we do not describe the App as using uploaded photos or prompts for cross-context behavioral advertising.
+Unless and until our actual product implementation changes, we do not describe the App as using uploaded content or prompts for cross-context behavioral advertising.
 
 If our data practices change in a way that requires updated disclosures, we will revise this Privacy Policy and, where required, seek additional consent.
 
@@ -198,5 +199,4 @@ Your continued use of the App after the updated Privacy Policy becomes effective
 If you have questions or requests regarding this Privacy Policy, please contact:
 
 Pavel Gedko  
-Centralnaja 6-7 Pinsk, 225715, Belarus  
-[pavelgedko@icloud.com](mailto:pavelgedko@icloud.com)
+[gedkosupport@gmail.com](mailto:gedkosupport@gmail.com)
