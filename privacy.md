@@ -2,153 +2,161 @@
 layout: legal
 title: Privacy Policy
 description: Privacy policy for mobile applications and related services published by Pavel Gedko.
-effective_date: April 1, 2026
+effective_date: April 23, 2026
 permalink: /privacy/
 intro: This Privacy Policy explains how mobile applications and related services published by Pavel Gedko collect, use, store, and protect information.
 ---
 
 ## 1. Scope
 
-This Privacy Policy applies to information collected through our mobile applications and related services, including when you:
+This Privacy Policy applies to our mobile applications, websites, embedded web experiences, and related services published by Pavel Gedko ("App," and together, the "Service").
 
-- upload or capture photos, screenshots, files, or other source content;
-- submit prompts, selections, text, or other inputs;
-- save, share, or export generated or processed results;
-- purchase or restore subscriptions through the App Store; and
-- interact with the App while analytics, diagnostics, or security tools are active.
+The exact data processed depends on the specific App, the features you use, the permissions you grant, the device you use, and whether you interact with third-party services through an App. Not every category described in this Privacy Policy applies to every App.
+
+If we provide an App-specific privacy notice, in-app disclosure, App Store privacy disclosure, or feature-specific explanation for a particular App or feature, that disclosure supplements this Privacy Policy. If there is a direct conflict, the App-specific disclosure controls for that App or feature.
 
 ## 2. Information We Collect
 
-We may collect the following categories of information:
+We may collect the following categories of information.
 
 ### 2.1 Information you provide directly
 
-- Photos, images, screenshots, files, recordings, or other content you upload, capture, edit, or submit through the App.
-- Text prompts, selections, preferences, messages, and other instructions you provide in the App.
-- Requests, feedback, or other communications you send to us.
+- Content, files, text, prompts, images, recordings, screenshots, labels, notes, settings, instructions, account names, shortcut names, preferences, and other materials you provide through an App.
+- Support requests, feedback, bug reports, emails, and other communications you send to us.
+- Information you choose to submit when configuring features, workflows, profiles, automations, exports, browsing sessions, or integrations.
 
-### 2.2 Information created through your use of the App
+### 2.2 Information created, stored, or processed through your use of the Service
 
-- AI-generated or app-generated outputs and related metadata.
-- Records of feature requests and app interactions, such as selected options, prompt text, and processing history.
-- Locally stored files and history saved on your device in connection with App features.
+- App-generated outputs, saved states, histories, profiles, shortcuts, workspaces, preferences, results, or other records created through your use of an App.
+- Data stored locally on your device, including app settings, session state, local files, usage history, cached materials, or feature-related records.
+- Security-related settings or records, such as PIN-related data, authentication preferences, or credentials stored through device-secure storage mechanisms where supported.
+- Session-related website data stored on your device when an App provides access to third-party websites or accounts through web views, embedded browsers, or similar features. This may include cookies, local browser storage, or isolated website data used to keep sessions working.
+- AI-generated, automated, transformed, classified, summarized, or otherwise software-assisted outputs and related metadata, where applicable.
 
 ### 2.3 Information collected automatically
 
-- App usage information, such as interactions with screens and features, app launches, session activity, and general usage patterns.
-- Device and technical information, such as app version, bundle identifier, device model, operating system version, language, timestamps, crash data, diagnostics, and similar technical data.
-- Security and abuse-prevention signals that may be collected by infrastructure and app protection services.
+- App usage information, such as screen views, feature interactions, launches, session events, taps, navigation events, and general usage patterns.
+- Device and technical information, such as app version, bundle identifier, device model, operating system version, language, timestamps, crash data, diagnostics, performance metrics, and similar technical information.
+- Security and abuse-prevention signals used to maintain app integrity, troubleshoot errors, detect misuse, and protect the Service.
 
 ### 2.4 Subscription and transaction information
 
-- Information related to subscription status, purchase, trial eligibility, restoration, renewal, and cancellation as made available to us by Apple or the App Store ecosystem.
-- We do not receive or store your full payment card number. Payments for iOS subscriptions are processed by Apple.
+- Information related to subscription status, purchase state, trial eligibility, restoration, renewal, expiration, cancellation, or entitlement status as made available to us by Apple or the App Store ecosystem.
+- We do not receive or store your full payment card number for App Store purchases. Payments processed through Apple's App Store are handled by Apple.
 
 ## 3. How We Collect Information
 
 We collect information:
 
-- directly from you when you upload content, enter prompts, or contact us;
-- automatically through the App and integrated SDKs, including analytics, crash reporting, storage, and security services; and
-- from third parties, such as Apple, when necessary to validate purchases, provide subscriptions, or comply with platform rules.
+- directly from you when you use App features, submit content, configure settings, contact us, or interact with purchase flows;
+- automatically through the App, the operating system, device APIs, and integrated SDKs used for analytics, diagnostics, subscriptions, security, storage, or similar functionality;
+- from third parties, such as Apple and service providers, when needed to provide purchases, subscriptions, hosting, diagnostics, security, app functionality, or other requested features; and
+- from websites or services you choose to access through an App, to the extent required to display content, maintain local session state, or operate the requested feature.
 
 ## 4. How We Use Information
 
 We may use information for the following purposes:
 
-- to operate the App and provide its features, including AI-powered or automated functionality where applicable;
-- to upload, process, store, retrieve, and return content needed to perform requested features;
-- to save your app history and make your outputs or results available inside the App;
-- to process and restore subscriptions, maintain premium access, and respond to billing-related support issues;
-- to monitor app performance, troubleshoot errors, detect crashes, maintain security, prevent abuse, and debug technical issues;
-- to improve the App's design, usability, stability, and feature set;
-- to comply with legal obligations, enforce our terms, protect our rights, and respond to lawful requests; and
-- to communicate with you about support, operational matters, changes to the App, or legal notices.
+- to operate, maintain, secure, troubleshoot, and provide the relevant App and its features;
+- to create, store, synchronize, display, retrieve, export, or return content, outputs, settings, records, or results requested by you;
+- to maintain app state, local histories, session data, preferences, isolated browser sessions, and feature configurations on your device;
+- to authenticate access, protect app features, support device-security features, and help prevent misuse or unauthorized access;
+- to process purchases, restore subscriptions, validate entitlements, and make premium access available;
+- to monitor usage, measure performance, detect crashes, investigate bugs, and improve app usability, reliability, and feature design;
+- to support AI, automation, transformation, analysis, or other software-assisted features where the relevant App includes them;
+- to comply with legal obligations, enforce our terms, protect rights and safety, and respond to lawful requests; and
+- to communicate with you about support matters, operational notices, product changes, and legal updates.
 
-## 5. How AI Processing Works
+## 5. Third-Party Services, Websites, and Accounts
 
-When you use AI-powered or automated features, the content and inputs you provide may be transmitted to third-party infrastructure providers and service providers that help us perform the requested task.
+Some Apps may allow you to open or use third-party websites, services, or login flows through links, integrations, embedded browsers, or web views.
 
-Depending on the specific App and feature, this may include cloud storage providers, analytics providers, diagnostics providers, and AI or model providers.
+When you use those features:
 
-Depending on the feature you use, this may include:
+- the third-party service may collect information under its own privacy policy and terms;
+- website/session data such as cookies, local storage, cached website data, or isolated browsing data may be stored on your device to provide the feature you requested;
+- we may process limited technical or session-related information as needed to keep the feature functioning inside the App; and
+- we do not control the privacy or security practices of third-party services.
 
-- uploading source content to cloud storage so processing systems can access it;
-- sending prompts, media, configuration choices, or other task parameters to service providers that process the requested feature; and
-- downloading results back to the App and optionally saving them locally on your device.
+If you sign in to or interact with a third-party service through an App, you should review that third party's own terms and privacy practices.
 
-Please do not upload or submit sensitive personal information, confidential information, or images you are not comfortable transmitting to cloud services.
+## 6. AI, Automation, and Cloud Processing
 
-## 6. How We Share Information
+Some Apps may include artificial intelligence, automation, transformation, recommendation, generation, analysis, classification, or other software-assisted features.
+
+If an App includes such features, the content and inputs you provide for that feature may be transmitted to third-party infrastructure, cloud, model, automation, analytics, or processing providers as reasonably necessary to perform the requested task.
+
+Depending on the App and feature, this may include:
+
+- transmitting source content, prompts, files, settings, or task parameters to service providers;
+- temporarily storing or caching materials needed to complete the requested processing;
+- receiving outputs, results, metadata, or status information back into the App; and
+- storing certain resulting data locally on your device or within the relevant service environment.
+
+Please do not submit highly sensitive personal information, confidential information, or content you are not comfortable transmitting to external service providers unless the relevant App expressly tells you otherwise.
+
+## 7. How We Share Information
 
 We may share information with:
 
-- cloud storage, hosting, analytics, diagnostics, and infrastructure providers;
-- AI, automation, and model providers that process prompts, media, and feature requests on our behalf;
-- Apple and App Store-related service providers for subscription, billing, and purchase validation workflows;
-- professional advisors, auditors, insurers, and legal compliance providers where necessary;
-- authorities, regulators, courts, or law enforcement if required by law or to protect rights, safety, and security; and
-- a buyer, investor, successor, or other party in connection with a merger, acquisition, financing, restructuring, or sale of all or part of our business.
+- analytics, diagnostics, crash-reporting, hosting, storage, infrastructure, security, and technical service providers;
+- subscription, billing, entitlement, and payment ecosystem providers, including Apple and App Store-related services;
+- AI, automation, cloud, model, transformation, or processing providers where needed to perform requested features;
+- third-party services or websites you choose to access through an App, to the extent required for the requested interaction;
+- professional advisors, auditors, insurers, legal counsel, or compliance providers where reasonably necessary;
+- authorities, regulators, courts, or law enforcement when required by law or reasonably necessary to protect rights, safety, and security; and
+- a buyer, investor, successor, or other relevant party in connection with a merger, acquisition, financing, restructuring, or sale of all or part of our business.
 
-We do not state that we "sell" personal information unless and until our actual practices require such disclosure under applicable law.
-
-## 7. Third-Party Services
-
-The App may use third-party tools and services, including services associated with:
-
-- Apple and the App Store;
-- cloud storage, analytics, diagnostics, and related infrastructure providers;
-- AI or model providers used to process prompts, media, and feature requests; and
-- other technical vendors that help us deliver, secure, and improve the Service.
-
-These third parties may process certain information under their own privacy terms and contractual arrangements with us. We encourage you to review their applicable privacy information where relevant.
+This Privacy Policy does not state that we sell personal information for money or use submitted content for cross-context behavioral advertising unless a specific App or product-specific disclosure says otherwise.
 
 ## 8. App Permissions
 
-Depending on the specific App and feature set, the App may request access to:
+Depending on the App and feature set, the App may request access to device permissions or capabilities such as:
 
-- Camera, so you can capture content inside the App;
-- Photo Library, Files, Microphone, or other device resources, so you can provide source content;
-- Photo Library Additions or local storage access, so you can save results created by the App; and
-- Notifications, if the App offers reminders, status updates, or similar functionality.
+- camera;
+- microphone;
+- photo library;
+- files and local storage;
+- notifications;
+- biometrics such as Face ID or Touch ID;
+- contacts or other system resources; and
+- secure storage or other operating system features.
 
-You can control these permissions at any time in your iOS device settings. If you deny certain permissions, some App features may not function properly.
+You can manage many permissions in your device settings. If you deny or revoke permissions, some features may not function properly.
 
-## 9. Local Storage on Your Device
+## 9. Local Storage, Secure Storage, and On-Device Data
 
-The App may store source content, generated results, prompts, selections, preferences, and related history locally on your device so you can view previous activity inside the App.
+Apps may store data locally on your device so features continue to work, including settings, histories, files, cached materials, profiles, shortcut definitions, isolated session data, website data, and other feature-related records.
 
-Certain files related to feature requests may also be temporarily stored in cloud infrastructure for the limited purpose of processing user-requested features and returning results to you.
+Some Apps may also use secure on-device storage, such as Apple Keychain or similar operating system facilities, to store security-sensitive records such as PIN-related data, tokens, or credentials in a more protected form.
 
-If you save images to your Apple Photos library, those files are then also stored within your Photos environment under Apple's controls.
-
-Deleting the App, deleting locally saved files, or removing items from your Photos library may remove certain locally stored data from your device, but it may not remove data already processed or stored by third-party service providers as part of prior requests.
+If you delete an App, clear app data, remove locally saved files, clear website data, or remove items from your device libraries, some locally stored data may be deleted from your device. This may not delete information already processed or stored by third-party providers under their own retention practices.
 
 ## 10. Data Retention
 
 We retain information for as long as reasonably necessary to:
 
-- provide the Service;
-- maintain subscription access and purchase records;
-- support legitimate business and operational needs;
-- resolve disputes, prevent fraud, and enforce agreements; and
-- comply with applicable law.
+- provide the relevant App or feature;
+- maintain subscription access, purchase records, and app functionality;
+- preserve security, prevent fraud, investigate issues, and enforce agreements;
+- support legitimate operational and business needs; and
+- comply with legal obligations.
 
-Retention periods may vary depending on the category of data, how the feature works, whether the data is stored locally on your device, and the policies of third-party providers involved in processing the request.
+Retention periods vary depending on the App, feature, data category, whether the data is stored only on your device, and the practices of relevant service providers.
 
 ## 11. International Data Transfers
 
-Your information may be processed and stored in countries other than the one where you live, including through third-party providers that support storage, infrastructure, analytics, crash reporting, and AI processing. These countries may have different data protection laws than your jurisdiction.
+Your information may be processed and stored in countries other than the country where you live, including through third-party providers that support analytics, diagnostics, subscriptions, hosting, cloud processing, infrastructure, or other app functionality.
 
-Where required, we will take reasonable steps intended to ensure that such transfers are subject to appropriate safeguards.
+These countries may have data protection laws that differ from those in your jurisdiction. Where required, we will take reasonable steps intended to ensure that such transfers are subject to appropriate safeguards.
 
 ## 12. Legal Bases for Processing
 
-If you are located in a jurisdiction that requires a legal basis for processing personal data, such as the EEA, UK, or similar regions, our legal bases may include:
+If you are in a jurisdiction that requires a legal basis for processing personal data, such as the EEA, UK, or similar regions, our legal bases may include:
 
 - performance of a contract, including providing the App and requested features;
 - your consent, where required;
-- our legitimate interests, such as improving, securing, and maintaining the Service; and
+- our legitimate interests, such as securing, operating, and improving the Service; and
 - compliance with legal obligations.
 
 ## 13. Your Rights and Choices
@@ -156,7 +164,8 @@ If you are located in a jurisdiction that requires a legal basis for processing 
 Depending on your location and applicable law, you may have the right to:
 
 - request access to certain personal data;
-- request correction or deletion of certain personal data;
+- request correction of certain personal data;
+- request deletion of certain personal data;
 - object to or restrict certain processing;
 - withdraw consent where processing is based on consent;
 - request portability of certain personal data; and
@@ -164,37 +173,32 @@ Depending on your location and applicable law, you may have the right to:
 
 You may also:
 
-- manage camera and photo permissions in your iOS settings;
-- manage App Store subscriptions and purchases through your Apple Account; and
-- contact us using the details below to submit privacy-related requests.
+- manage device permissions in your device settings;
+- manage App Store subscriptions and purchases through your Apple Account;
+- clear local device data, where the App and operating system allow it; and
+- contact us using the information below regarding privacy requests.
 
 We may need to verify your identity before completing certain requests, and some rights may be limited by law.
 
 ## 14. Children's Privacy
 
-The App is not directed to children under 13, or under the minimum age required by local law for digital consent, unless expressly stated otherwise.
+Our Apps are not directed to children under 13, or under the minimum age required by local law for digital consent, unless a particular App expressly states otherwise.
 
-We do not knowingly collect personal data from children in a manner requiring parental consent without obtaining such consent. If you believe a child has provided personal data to us unlawfully, contact us and we will take appropriate steps.
+We do not knowingly collect personal data from children in a manner requiring parental consent without obtaining that consent. If you believe a child has provided personal data unlawfully, please contact us and we will take appropriate steps.
 
 ## 15. Security
 
 We use administrative, technical, and organizational measures intended to protect information against unauthorized access, loss, misuse, alteration, or disclosure.
 
-However, no method of transmission over the internet and no method of electronic storage is completely secure, and we cannot guarantee absolute security.
+However, no method of transmission over the internet, no third-party service, and no method of electronic storage is completely secure, and we cannot guarantee absolute security.
 
-## 16. Do Not Track and Targeted Advertising
+## 16. Changes to This Privacy Policy
 
-Unless and until our actual product implementation changes, we do not describe the App as using uploaded content or prompts for cross-context behavioral advertising.
+We may update this Privacy Policy from time to time. If we make material changes, we may provide notice through the relevant App, App Store materials, a website, or other reasonable means.
 
-If our data practices change in a way that requires updated disclosures, we will revise this Privacy Policy and, where required, seek additional consent.
+Your continued use of the Service after the updated Privacy Policy becomes effective means you acknowledge the revised version, except to the extent applicable law requires a different form of consent.
 
-## 17. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. If we make material changes, we may provide notice through the App, App Store materials, a website, or other reasonable means.
-
-Your continued use of the App after the updated Privacy Policy becomes effective means you acknowledge the revised version.
-
-## 18. Contact Us
+## 17. Contact Us
 
 If you have questions or requests regarding this Privacy Policy, please contact:
 
