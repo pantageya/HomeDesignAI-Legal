@@ -2,18 +2,18 @@
 layout: legal
 title: Terms of Use
 description: Legal terms governing mobile applications and related services published by Pavel Gedko.
-effective_date: April 23, 2026
+effective_date: May 2, 2026
 permalink: /terms/
 intro: These Terms of Use govern your access to and use of mobile applications and related services published by Pavel Gedko.
 ---
 
 ## 1. Acceptance of These Terms
 
-These Terms of Use ("Terms") govern your access to and use of our mobile applications, websites, embedded web experiences, and related services (each, an "App," and together, the "Service") published by Pavel Gedko ("Developer," "we," "us," or "our").
+These Terms of Use ("Terms") govern your access to and use of our mobile applications, websites, embedded web experiences, cloud-connected features, device-connected features, and related services (each, an "App," and together, the "Service") published by Pavel Gedko ("Developer," "we," "us," or "our").
 
 By downloading, accessing, or using an App, you agree to these Terms. If you do not agree, do not use the App.
 
-If we provide an App-specific notice, feature-specific disclosure, or supplemental terms for a particular App or feature, that disclosure supplements these Terms. If there is a direct conflict, the App-specific disclosure controls for that App or feature.
+These Terms are intended to serve as a universal set of terms for our Apps. If a particular App, feature, App Store listing, purchase screen, or in-app notice provides additional details, those details supplement these Terms. If there is a direct conflict, the more specific disclosure controls for that App or feature.
 
 ## 2. Eligibility
 
@@ -29,14 +29,14 @@ Depending on the App and feature set, the Service may allow you to:
 
 - create, upload, capture, edit, organize, save, export, or share content, files, records, settings, or results;
 - enter text, prompts, instructions, selections, account labels, preferences, or other inputs;
-- manage workflows, utilities, browsing sessions, shortcuts, profiles, or app-specific configurations;
+- manage workflows, utilities, browsing sessions, shortcuts, profiles, local records, synced settings, or app-specific configurations;
 - access or display third-party websites, accounts, content, or services through integrations, links, web views, or embedded browsers;
 - use automation, machine learning, artificial intelligence, recommendation, classification, generation, analysis, or other software-assisted features where available; and
 - access free or paid features, including premium functionality offered through subscriptions or one-time purchases.
 
 Not every App includes every feature described in these Terms. Features may vary by App, device, operating system version, country, subscription tier, or third-party availability.
 
-Unless an App expressly states otherwise, the Service is intended for general consumer, productivity, creative, informational, communication, workflow, utility, and business-support purposes. It is not a substitute for regulated professional advice or safety-critical systems.
+Unless an App expressly states otherwise, the Service is intended for general consumer, productivity, creative, informational, communication, workflow, utility, entertainment, and business-support purposes. It is not a substitute for regulated professional advice or safety-critical systems.
 
 ## 4. Third-Party Services, Websites, and Accounts
 
@@ -50,6 +50,8 @@ When you use such functionality:
 - session-related data, such as cookies, local browser storage, isolated web data, or similar technical data, may be stored on your device as needed to provide the requested functionality.
 
 We do not guarantee that any third-party website, account, integration, or external service will remain available, compatible, or supported.
+
+You are responsible for maintaining access to any third-party account you choose to use with an App. We do not receive, control, or recover credentials for third-party services unless a particular feature expressly states otherwise.
 
 ## 5. Subscriptions, Billing, and Trials
 
@@ -68,6 +70,8 @@ If a free trial, introductory offer, discount, promotional plan, or limited-time
 If there is any inconsistency between these Terms and Apple's pricing or checkout information, the information presented by Apple at checkout controls.
 
 We may change premium features, plan structures, or availability to the extent permitted by law and App Store rules.
+
+Access to paid functionality may depend on successful purchase validation, subscription status, device connectivity, App Store availability, and the continued availability of the relevant App or feature.
 
 ## 6. Restore, Cancellation, and Refunds
 
@@ -92,6 +96,8 @@ You represent and warrant that:
 
 You are solely responsible for your User Content and for the consequences of submitting, storing, sharing, exporting, or using it.
 
+You are responsible for keeping your own backups of important User Content, exports, local records, settings, and results. We do not guarantee that locally stored data, synced data, cached materials, browser/session data, outputs, or histories will always be preserved, recoverable, or available across devices, operating system updates, app updates, deletions, reinstalls, subscription changes, or third-party service changes.
+
 ## 8. AI, Automation, and Software-Assisted Features
 
 Some Apps may include artificial intelligence, machine learning, automation, recommendations, rankings, predictions, classification, transcription, transformation, generation, or other software-assisted features ("Automated Features").
@@ -112,6 +118,8 @@ Depending on the App and the features you choose to use, the App may request acc
 
 You can manage many permissions in your device settings. If you deny or revoke permissions, some features may not function properly or at all.
 
+Some Apps may store information on your device, in secure device storage, or through operating-system sync features such as iCloud where available and enabled. Those platform features are also subject to the applicable platform provider's terms and settings.
+
 ## 10. Acceptable Use
 
 You may not, and may not permit others to:
@@ -124,7 +132,9 @@ You may not, and may not permit others to:
 - reverse engineer, decompile, scrape, frame, mirror, or otherwise exploit the Service except to the extent such restriction is prohibited by law;
 - use bots, scripts, automation, or bulk methods to access the Service in an unauthorized manner;
 - use the Service to violate third-party rights, including intellectual property, privacy, publicity, or contractual rights; or
-- use the Service in a way that could create legal liability for us, our users, or our providers.
+- use the Service in a way that could create legal liability for us, our users, or our providers;
+- use the Service to process, generate, store, or share material involving child sexual abuse, sexual exploitation, human trafficking, targeted harassment, credible threats, malware, phishing, credential theft, or other serious harm; or
+- rely on the Service as the sole means of making medical, legal, financial, employment, housing, insurance, emergency, safety-critical, or other regulated decisions.
 
 We may suspend, limit, or terminate access if we reasonably believe you violated these Terms, applicable law, or created risk for the Service or others.
 
@@ -146,11 +156,15 @@ The Service may include, rely on, or interoperate with third-party services, SDK
 
 Those third-party components may be subject to their own terms, licenses, and policies. We are not responsible for third-party materials, services, websites, or components beyond our reasonable control.
 
+Third-party software development kits, operating-system services, analytics, diagnostics, cloud infrastructure, purchase systems, artificial intelligence providers, and embedded websites may change their behavior, availability, or requirements over time. Those changes may affect App functionality.
+
 ## 14. Availability, Updates, and Feature Changes
 
 We may modify, update, suspend, discontinue, replace, restrict, or remove any App, feature, integration, workflow, Subscription benefit, or third-party dependency at any time, with or without notice, to the maximum extent permitted by law.
 
 We do not guarantee that the Service, any specific feature, any external integration, or any Automated Feature will always be available, uninterrupted, secure, accurate, or error-free.
+
+Where reasonably possible, we may use app updates, App Store listing updates, in-app notices, or published legal pages to communicate important changes. Your ability to continue using an older version of an App may be limited for security, compatibility, legal, platform, or operational reasons.
 
 ## 15. Privacy
 

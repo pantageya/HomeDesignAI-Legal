@@ -2,18 +2,18 @@
 layout: legal
 title: Privacy Policy
 description: Privacy policy for mobile applications and related services published by Pavel Gedko.
-effective_date: April 23, 2026
+effective_date: May 2, 2026
 permalink: /privacy/
 intro: This Privacy Policy explains how mobile applications and related services published by Pavel Gedko collect, use, store, and protect information.
 ---
 
 ## 1. Scope
 
-This Privacy Policy applies to our mobile applications, websites, embedded web experiences, and related services published by Pavel Gedko ("App," and together, the "Service").
+This Privacy Policy applies to our mobile applications, websites, embedded web experiences, cloud-connected features, device-connected features, and related services published by Pavel Gedko ("App," and together, the "Service").
 
 The exact data processed depends on the specific App, the features you use, the permissions you grant, the device you use, and whether you interact with third-party services through an App. Not every category described in this Privacy Policy applies to every App.
 
-If we provide an App-specific privacy notice, in-app disclosure, App Store privacy disclosure, or feature-specific explanation for a particular App or feature, that disclosure supplements this Privacy Policy. If there is a direct conflict, the App-specific disclosure controls for that App or feature.
+This Privacy Policy is intended to serve as a universal privacy policy for our Apps. If a particular App, feature, App Store listing, permission prompt, or in-app notice provides additional details, those details supplement this Privacy Policy. If there is a direct conflict, the more specific disclosure controls for that App or feature.
 
 ## 2. Information We Collect
 
@@ -31,12 +31,13 @@ We may collect the following categories of information.
 - Data stored locally on your device, including app settings, session state, local files, usage history, cached materials, or feature-related records.
 - Security-related settings or records, such as PIN-related data, authentication preferences, or credentials stored through device-secure storage mechanisms where supported.
 - Session-related website data stored on your device when an App provides access to third-party websites or accounts through web views, embedded browsers, or similar features. This may include cookies, local browser storage, or isolated website data used to keep sessions working.
+- Data synchronized through operating-system or platform services, such as iCloud key-value storage, iCloud containers, backup services, or similar device sync mechanisms where an App uses them and they are enabled on your device.
 - AI-generated, automated, transformed, classified, summarized, or otherwise software-assisted outputs and related metadata, where applicable.
 
 ### 2.3 Information collected automatically
 
 - App usage information, such as screen views, feature interactions, launches, session events, taps, navigation events, and general usage patterns.
-- Device and technical information, such as app version, bundle identifier, device model, operating system version, language, timestamps, crash data, diagnostics, performance metrics, and similar technical information.
+- Device and technical information, such as app version, bundle identifier, device model, operating system version, language, region, timestamps, crash data, diagnostics, performance metrics, installation identifiers, and similar technical information.
 - Security and abuse-prevention signals used to maintain app integrity, troubleshoot errors, detect misuse, and protect the Service.
 
 ### 2.4 Subscription and transaction information
@@ -60,6 +61,7 @@ We may use information for the following purposes:
 - to operate, maintain, secure, troubleshoot, and provide the relevant App and its features;
 - to create, store, synchronize, display, retrieve, export, or return content, outputs, settings, records, or results requested by you;
 - to maintain app state, local histories, session data, preferences, isolated browser sessions, and feature configurations on your device;
+- to support optional device sync, backup, restoration, continuity, and cross-device availability where supported by the App and platform;
 - to authenticate access, protect app features, support device-security features, and help prevent misuse or unauthorized access;
 - to process purchases, restore subscriptions, validate entitlements, and make premium access available;
 - to monitor usage, measure performance, detect crashes, investigate bugs, and improve app usability, reliability, and feature design;
@@ -80,6 +82,8 @@ When you use those features:
 
 If you sign in to or interact with a third-party service through an App, you should review that third party's own terms and privacy practices.
 
+We do not control data that a third-party website, account provider, payment provider, cloud provider, analytics provider, diagnostics provider, artificial intelligence provider, or platform service collects directly under its own privacy policy.
+
 ## 6. AI, Automation, and Cloud Processing
 
 Some Apps may include artificial intelligence, automation, transformation, recommendation, generation, analysis, classification, or other software-assisted features.
@@ -95,19 +99,22 @@ Depending on the App and feature, this may include:
 
 Please do not submit highly sensitive personal information, confidential information, or content you are not comfortable transmitting to external service providers unless the relevant App expressly tells you otherwise.
 
+Unless a specific App or feature says otherwise, we do not use your submitted content to identify you publicly, and we do not claim ownership of your submitted content. Processing by third-party providers may be subject to their own retention, security, and usage practices.
+
 ## 7. How We Share Information
 
 We may share information with:
 
-- analytics, diagnostics, crash-reporting, hosting, storage, infrastructure, security, and technical service providers;
+- analytics, diagnostics, crash-reporting, hosting, storage, infrastructure, security, app integrity, and technical service providers;
 - subscription, billing, entitlement, and payment ecosystem providers, including Apple and App Store-related services;
 - AI, automation, cloud, model, transformation, or processing providers where needed to perform requested features;
 - third-party services or websites you choose to access through an App, to the extent required for the requested interaction;
+- operating-system and platform providers, such as Apple, where needed for purchases, permissions, iCloud sync, backups, diagnostics, notifications, device security, or other platform functionality;
 - professional advisors, auditors, insurers, legal counsel, or compliance providers where reasonably necessary;
 - authorities, regulators, courts, or law enforcement when required by law or reasonably necessary to protect rights, safety, and security; and
 - a buyer, investor, successor, or other relevant party in connection with a merger, acquisition, financing, restructuring, or sale of all or part of our business.
 
-This Privacy Policy does not state that we sell personal information for money or use submitted content for cross-context behavioral advertising unless a specific App or product-specific disclosure says otherwise.
+We do not sell personal information for money. We do not use submitted content for cross-context behavioral advertising unless a specific App or product-specific disclosure says otherwise. If an App ever uses tracking or advertising identifiers in a way that requires consent under platform rules or applicable law, the App will request or disclose that consent as required.
 
 ## 8. App Permissions
 
@@ -124,13 +131,17 @@ Depending on the App and feature set, the App may request access to device permi
 
 You can manage many permissions in your device settings. If you deny or revoke permissions, some features may not function properly.
 
+Permission prompts are controlled by the operating system. Granting a permission does not always mean every item available through that permission is uploaded or collected by us; the App may use the permission only locally or only when you choose a specific action.
+
 ## 9. Local Storage, Secure Storage, and On-Device Data
 
 Apps may store data locally on your device so features continue to work, including settings, histories, files, cached materials, profiles, shortcut definitions, isolated session data, website data, and other feature-related records.
 
 Some Apps may also use secure on-device storage, such as Apple Keychain or similar operating system facilities, to store security-sensitive records such as PIN-related data, tokens, or credentials in a more protected form.
 
-If you delete an App, clear app data, remove locally saved files, clear website data, or remove items from your device libraries, some locally stored data may be deleted from your device. This may not delete information already processed or stored by third-party providers under their own retention practices.
+Some Apps may use platform sync or backup features, such as iCloud, to make certain settings, profiles, records, or app data available across your devices or recoverable after reinstalling. You can manage iCloud and backup behavior through your device and Apple Account settings where available.
+
+If you delete an App, clear app data, remove locally saved files, clear website data, disable sync, or remove items from your device libraries, some locally stored data may be deleted from your device. This may not delete information already synced, backed up, processed, or stored by platform services or third-party providers under their own retention practices.
 
 ## 10. Data Retention
 
@@ -143,6 +154,8 @@ We retain information for as long as reasonably necessary to:
 - comply with legal obligations.
 
 Retention periods vary depending on the App, feature, data category, whether the data is stored only on your device, and the practices of relevant service providers.
+
+For data stored only on your device, we may not be able to access, correct, export, or delete that data for you. You can usually control that data by using App features, device settings, deleting local records, clearing website data, disabling sync, or deleting the App.
 
 ## 11. International Data Transfers
 
@@ -175,7 +188,7 @@ You may also:
 
 - manage device permissions in your device settings;
 - manage App Store subscriptions and purchases through your Apple Account;
-- clear local device data, where the App and operating system allow it; and
+- clear local device data, website data, caches, histories, saved records, and synced platform data where the App, platform, and operating system allow it; and
 - contact us using the information below regarding privacy requests.
 
 We may need to verify your identity before completing certain requests, and some rights may be limited by law.
